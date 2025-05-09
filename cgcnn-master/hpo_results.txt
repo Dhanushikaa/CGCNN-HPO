@@ -1,0 +1,2 @@
+Best Hyperparameters: {'lr': 1.6081145750265402e-08, 'batch_size': 16, 'num_layers': 2, 'hidden_dim': 495, 'dropout_fraction': 0, 'weight_decay': 0.007846710452420889}
+Best Validation Loss: inf
